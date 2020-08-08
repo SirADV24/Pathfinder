@@ -4,6 +4,10 @@
 
 I managed to create this tool that allow the visualisation of the most common pathfidner/grid search algorythms.
 
+# Examples
+- Short video: [Demo](https://www.youtube.com/watch?v=bW9yDvDNpE0&feature=youtu.be)
+- Also Exampe folder
+
 # Tutorial
 
 Run main.py
@@ -43,13 +47,7 @@ Everything related to the interface is made with the help of pygame .
  
  To achive the animation , we perform the algorythm, calling the function draw whenever we find it necessary . Draw function is a lambda defined function
  from the Interface that is given as parameter to the service
- 
- # Examples
- 
- [Demo](https://www.youtube.com/watch?v=bW9yDvDNpE0&feature=youtu.be)
- 
- 
- [Exampel1]
+
  
  
  
